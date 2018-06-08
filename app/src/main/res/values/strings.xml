@@ -1,0 +1,6 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">6092446</integer>
+    <string name="app_name">VKPP</string>
+    <string name="auth">Войти</string>
+    <string name="start">Начать</string>
+</resources>
